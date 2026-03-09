@@ -1,288 +1,295 @@
 <div align="center">
 
-<img src="https://klartext-ventures.de/favicon.ico" width="72" height="72" alt="Klartext Ventures Logo" />
+<img src="https://klartext-tools.com/favicon.ico" width="90" alt="Klartext Ventures Logo"/>
 
 # Klartext Ventures
 
 ### Fast • Private • Browser-Based Utility Tools
 
-<p>
-  Minimal, high-performance web tools built for speed, clarity, and everyday usefulness.
-</p>
+Minimal, high-performance web tools designed for **speed, clarity, and real usefulness**.
 
-<p>
-  <a href="https://klartext-ventures.de">
-    <img src="https://img.shields.io/badge/Website-Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Live" />
-  </a>
-  <a href="mailto:support@klartext-ventures.de">
-    <img src="https://img.shields.io/badge/Contact-Support-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Support" />
-  </a>
-</p>
+<br>
 
-<p>
-  <strong>Privacy-first calculators, developer tools, gaming utilities, and practical web apps.</strong>
-</p>
+<a href="https://klartext-ventures.de">
+<img src="https://img.shields.io/badge/Platform-Live-black?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="mailto:support@klartext-ventures.de">
+<img src="https://img.shields.io/badge/Contact-Support-1f2937?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<img src="https://img.shields.io/badge/Privacy-First-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tools-Browser%20Based-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/UX-Mobile%20Optimized-black?style=for-the-badge">
+
+<br>
+<br>
+
+**Developer utilities • Gaming calculators • Practical web tools**
+
+🌐 https://klartext-tools.com
 
 </div>
 
 ---
 
-## Overview
+# Klartext Ventures
 
-**Klartext Ventures** is a privacy-focused utility platform that builds **fast, browser-based online tools** for real-world tasks.
+**Klartext Ventures** is a privacy-focused utility platform that builds **fast, browser-native tools** for solving everyday technical and practical problems.
 
-The platform is designed around a simple idea:
+The platform focuses on **micro-utilities**:
 
-> **One page. One job. Fast results. No unnecessary friction.**
+• one page  
+• one clear purpose  
+• instant results  
 
-Instead of bloated software, accounts, or distracting interfaces, Klartext Ventures focuses on lightweight tools that open instantly, work clearly, and solve specific problems well.
-
-Current platform areas include:
-
-- **Developer tools**
-- **gaming tools**
-- **construction and estimation calculators**
-- **productivity-oriented browser utilities**
+Instead of heavy SaaS platforms or bloated websites, Klartext Ventures provides **focused tools that open instantly and deliver immediate value**.
 
 ---
 
-## Why Klartext Ventures
+# Featured Tools
 
-The web is full of slow, ad-heavy, overcomplicated tools.
+<div align="center">
 
-Klartext Ventures takes a different approach:
+| Tool | Description | Link |
+|-----|-------------|------|
+| 🎮 DPI Calculator | Calculate and convert mouse DPI and sensitivity values | https://klartext-tools.com |
+| 💻 JSON Formatter | Format and validate JSON instantly in the browser | https://klartext-tools.com |
+| 📐 Tile Calculator | Estimate tiles required for flooring or walls | https://klartext-tools.com |
+| 🎯 eDPI Converter | Convert sensitivity settings between games | https://klartext-tools.com |
 
-- **fast loading**
-- **clear interfaces**
-- **mobile-friendly layouts**
-- **privacy-first execution**
-- **browser-side calculations whenever possible**
-
-This makes the platform useful for people who want quick answers without signing up, waiting, or handing over unnecessary data.
+</div>
 
 ---
 
-## Tool Categories
+# Platform Categories
 
-### Developer Tools
+## 🎮 Gaming Tools
 
-Lightweight browser tools for common technical workflows.
+Utilities designed for gamers optimizing mouse sensitivity and performance.
 
 Examples include:
 
-- JSON formatter and validator
-- keyboard input test tools
-- screen resolution and viewport utilities
-- text formatting and validation helpers
+- DPI calculators  
+- eDPI converters  
+- sensitivity comparison tools  
+- input testing utilities  
 
-These tools are designed for developers, students, and technical users who need quick utilities without opening heavy desktop software.
+**Example search queries**
 
-**SEO keywords:** developer tools, online JSON formatter, keyboard test, screen resolution checker, browser utilities
+```
+dpi calculator
+edpi calculator
+mouse sensitivity converter
+gaming sensitivity calculator
+```
 
 ---
 
-### Gaming Tools
+## 💻 Developer Tools
 
-Practical gaming calculators and sensitivity utilities built for performance-minded users.
+Lightweight browser utilities for developers and technical workflows.
 
 Examples include:
 
-- DPI calculators
-- eDPI conversion tools
-- sensitivity calculators
-- cross-game setup helpers
-- input-related utilities
+- JSON formatter and validator  
+- keyboard input testers  
+- screen resolution detection tools  
+- text formatting utilities  
 
-These tools help users optimize settings, compare sensitivities, and improve consistency across games and devices.
+**Example search queries**
 
-**SEO keywords:** gaming calculator, DPI calculator, eDPI calculator, mouse sensitivity converter, gaming utility tools
+```
+json formatter
+keyboard tester
+screen resolution checker
+developer utilities online
+```
 
 ---
 
-### Construction & Estimation Tools
+## 🏗 Construction Calculators
 
-Straightforward calculators for material planning and estimation.
+Practical calculators used for planning and estimating materials.
 
 Examples include:
 
-- tile calculators
-- paint calculators
-- wallpaper calculators
-- area and surface estimators
-- volume-related planning tools
+- tile calculators  
+- paint consumption estimators  
+- wallpaper estimators  
+- area and volume calculators  
 
-These tools are built for practical use cases where users need quick calculations without spreadsheets or manual formulas.
+**Example search queries**
 
-**SEO keywords:** tile calculator, paint calculator, wallpaper calculator, material estimator, construction calculator
-
----
-
-## Platform Principles
-
-### Fast by Default
-
-Klartext Ventures is built for speed.
-
-The platform emphasizes:
-
-- lightweight pages
-- minimal dependencies
-- fast rendering
-- efficient front-end delivery
-- reduced friction between input and result
-
-Pages are designed to feel immediate on both desktop and mobile.
+```
+tile calculator
+paint calculator
+wallpaper calculator
+material estimator
+```
 
 ---
 
-### Privacy by Design
+# Platform Principles
 
-Privacy is not treated as an afterthought.
+## ⚡ Speed First
 
-Whenever technically possible:
+Performance is the foundation of the platform.
 
-- calculations run in the browser
-- no account is required
-- no unnecessary personal data is collected
-- server-side processing is avoided
+Optimizations include:
 
-This approach keeps tools simple, efficient, and privacy-respecting.
+- lightweight JavaScript bundles  
+- static rendering where possible  
+- CDN delivery  
+- minimal dependencies  
 
----
-
-### Clear, Minimal UX
-
-The platform design is intentionally clean and functional.
-
-The user experience focuses on:
-
-- clear hierarchy
-- dark, modern UI
-- accessible inputs
-- direct result feedback
-- minimal distractions
-
-The visual style reflects the same philosophy as the product itself: **focused, modern, and useful**.
+Tools load quickly and feel **instant on both mobile and desktop**.
 
 ---
 
-## Website Structure
+## 🔒 Privacy First
 
-Each tool is typically designed around a consistent pattern:
+The platform is designed with **privacy as a default**.
 
-1. clear tool title
-2. short explanation
-3. focused input area
-4. instant result output
-5. supporting context or guidance
-6. FAQ or additional explanatory content
-7. related internal tools
+Whenever possible:
 
-This structure supports both usability and SEO by making pages easier to scan, understand, and index.
+- calculations run locally in the browser  
+- no accounts are required  
+- no unnecessary tracking  
+- minimal data collection  
 
----
-
-## SEO Approach
-
-Klartext Ventures is built with long-term organic discoverability in mind.
-
-The platform emphasizes:
-
-- focused tool-specific landing pages
-- clear keyword targeting
-- descriptive metadata
-- internal linking between related tools
-- structured page layouts
-- strong mobile usability
-- fast page speed
-- evergreen search intent coverage
-
-Rather than publishing generic content, the platform aims to create **high-utility pages that solve concrete search queries**.
-
-Examples of target search intent include:
-
-- “online json formatter”
-- “dpi to edpi calculator”
-- “tile calculator online”
-- “screen resolution checker”
-- “paint estimator”
+Users can solve problems **without giving up personal data**.
 
 ---
 
-## Technical Direction
+## 🧭 Clear UX
 
-Klartext Ventures is built around a lightweight, performance-oriented web approach.
+Every tool follows a structured layout:
 
-Core goals include:
+```
+Tool Title
+Short Explanation
+Input Fields
+Live Results
+Usage Context
+FAQ
+Related Tools
+```
 
-- static-first delivery where appropriate
-- minimal front-end overhead
-- scalable utility-page architecture
-- reusable tool patterns
-- SEO-friendly page structures
-- maintainable growth across many individual tools
+This structure improves:
 
-The platform is designed to scale into a larger ecosystem of focused micro-utilities without losing performance or clarity.
-
----
-
-## Who It Is For
-
-Klartext Ventures is built for users who want fast answers and clean tools, including:
-
-- developers
-- students
-- gamers
-- builders and planners
-- general web users looking for quick calculators and utilities
-
-The common denominator is simple:
-
-**people who want useful tools without unnecessary complexity.**
+- usability  
+- discoverability  
+- SEO performance  
 
 ---
 
-## Growth Vision
+# Architecture Overview
 
-Klartext Ventures is growing as a utility-first ecosystem.
+```
+User Browser
+      │
+      │  Input
+      ▼
+Utility Tool Page
+      │
+      │  Client-Side Logic
+      ▼
+Browser Calculation Engine
+      │
+      ▼
+Instant Result
+```
 
-The long-term direction includes:
+Design philosophy:
 
-- expanding high-intent search tools
-- improving internal tool discovery
-- building stronger topical clusters
-- creating more browser-native utilities
-- increasing tool coverage across practical categories
-- maintaining performance and simplicity as the platform scales
-
-The goal is not to build “everything”.
-
-The goal is to build **the most useful version of the right things**.
-
----
-
-## Live Website
-
-Visit the platform here:
-
-**https://klartext-ventures.de**
+- browser-native tools  
+- minimal server dependencies  
+- scalable tool architecture  
 
 ---
 
-## Contact
+# SEO Strategy
 
-**Klartext Ventures**  
-Website: **https://klartext-ventures.de**  
-Email: **support@klartext-ventures.de**
+Klartext Ventures focuses on **high-intent search problems**.
+
+Examples include:
+
+```
+online json formatter
+dpi calculator
+tile calculator
+screen resolution checker
+paint estimator
+```
+
+Key SEO principles:
+
+- search-intent driven tools  
+- fast page performance  
+- structured page layouts  
+- internal linking between tools  
+- evergreen utility content  
+
+---
+
+# Platform Roadmap
+
+Future expansion includes:
+
+- more gaming utilities  
+- advanced developer tools  
+- financial calculators  
+- productivity tools  
+- improved tool discovery  
+
+The goal is to build a **large ecosystem of focused web utilities**.
+
+---
+
+# Repository Statistics
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/Klartext-Ventures/utility-tools-platform?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/Klartext-Ventures/utility-tools-platform?style=for-the-badge">
+<img src="https://img.shields.io/github/issues/Klartext-Ventures/utility-tools-platform?style=for-the-badge">
+
+</div>
+
+---
+
+# Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Klartext-Ventures&style=for-the-badge">
+
+</div>
+
+---
+
+# Live Platform
+
+Visit the platform:
+
+### https://klartext-tools.com
+
+---
+
+# Contact
+
+Klartext Ventures  
+support@klartextventures.com
 
 ---
 
 <div align="center">
 
-## Klartext Ventures
+### Klartext Ventures
 
-**Fast. Private. Useful.**
+Fast • Private • Useful
 
-<sub>Modern browser tools for developers, gamers, planners, and everyday web users.</sub>
+Modern browser tools for developers, gamers, planners, and everyday users.
 
 </div>
