@@ -247,18 +247,6 @@ The goal is to build a **large ecosystem of focused web utilities**.
 
 ---
 
-# Repository Statistics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/Klartext-Ventures/utility-tools-platform?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/Klartext-Ventures/utility-tools-platform?style=for-the-badge">
-<img src="https://img.shields.io/github/issues/Klartext-Ventures/utility-tools-platform?style=for-the-badge">
-
-</div>
-
----
-
 # Visitor Counter
 
 <div align="center">
