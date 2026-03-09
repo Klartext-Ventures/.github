@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://klartext-tools.com/favicon.ico" width="90" alt="Klartext Ventures Logo"/>
+<img src="https://klartext-tools.com/favicon.svg" width="90" alt="Klartext Ventures Logo"/>
 
 # Klartext Ventures
 
