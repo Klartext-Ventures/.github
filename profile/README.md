@@ -23,8 +23,8 @@
 <p>
   <img src="https://img.shields.io/badge/150%2B-Free%20Browser%20Tools-000000?style=flat-square" alt="150+ free browser tools">
   <img src="https://img.shields.io/badge/No-Registration-000000?style=flat-square" alt="No registration">
-  <img src="https://img.shields.io/badge/Browser-Based-Utilities-000000?style=flat-square" alt="Browser based">
-  <img src="https://img.shields.io/badge/Privacy-Friendly-Workflows-000000?style=flat-square" alt="Privacy friendly">
+  <img src="https://img.shields.io/badge/Browser%20Based-Utilities-000000?style=flat-square" alt="Browser based">
+  <img src="https://img.shields.io/badge/Privacy%20Friendly-Workflows-000000?style=flat-square" alt="Privacy friendly">
   <img src="https://img.shields.io/badge/Multilingual-Workflows-000000?style=flat-square" alt="Multilingual">
   <img src="https://img.shields.io/badge/Built%20in-Germany-000000?style=flat-square" alt="Built in Germany">
 </p>
