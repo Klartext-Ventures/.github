@@ -1,283 +1,145 @@
 <div align="center">
 
-<img src="https://klartext-tools.com/favicon.svg" width="90" alt="Klartext Ventures Logo"/>
+<img src="https://klartext-tools.com/favicon.svg" width="90" alt="Klartext Tools Logo"/>
 
-# Klartext Ventures
+# KLΛRTEXT VENTURES
 
-### Fast • Private • Browser-Based Utility Tools
+### Building Klartext Tools
 
-Minimal, high-performance web tools designed for **speed, clarity, and real usefulness**.
+**Free browser tools. No installs, no sign-ups. Just answers.**
 
-<br>
+<p>
+  <a href="https://klartext-tools.com">
+    <img src="https://img.shields.io/badge/Live%20Platform-klartext--tools.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Platform">
+  </a>
+  <a href="https://klartext-tools.com/en/about/">
+    <img src="https://img.shields.io/badge/About-Project-111111?style=for-the-badge" alt="About">
+  </a>
+  <a href="https://klartext-tools.com/en/contact/">
+    <img src="https://img.shields.io/badge/Contact-Klartext%20Ventures-111111?style=for-the-badge" alt="Contact">
+  </a>
+</p>
 
-<a href="https://klartext-ventures.de">
-<img src="https://img.shields.io/badge/Platform-Live-black?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="mailto:support@klartext-ventures.de">
-<img src="https://img.shields.io/badge/Contact-Support-1f2937?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<img src="https://img.shields.io/badge/Privacy-First-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tools-Browser%20Based-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/UX-Mobile%20Optimized-black?style=for-the-badge">
-
-<br>
-<br>
-
-**Developer utilities • Gaming calculators • Practical web tools**
-
-🌐 https://klartext-tools.com
-
-</div>
-
----
-
-# Klartext Ventures
-
-**Klartext Ventures** is a privacy-focused utility platform that builds **fast, browser-native tools** for solving everyday technical and practical problems.
-
-The platform focuses on **micro-utilities**:
-
-• one page  
-• one clear purpose  
-• instant results  
-
-Instead of heavy SaaS platforms or bloated websites, Klartext Ventures provides **focused tools that open instantly and deliver immediate value**.
-
----
-
-# Featured Tools
-
-<div align="center">
-
-| Tool | Description | Link |
-|-----|-------------|------|
-| 🎮 DPI Calculator | Calculate and convert mouse DPI and sensitivity values | https://klartext-tools.com |
-| 💻 JSON Formatter | Format and validate JSON instantly in the browser | https://klartext-tools.com |
-| 📐 Tile Calculator | Estimate tiles required for flooring or walls | https://klartext-tools.com |
-| 🎯 eDPI Converter | Convert sensitivity settings between games | https://klartext-tools.com |
+<p>
+  <img src="https://img.shields.io/badge/150%2B-Free%20Browser%20Tools-000000?style=flat-square" alt="150+ free browser tools">
+  <img src="https://img.shields.io/badge/No-Registration-000000?style=flat-square" alt="No registration">
+  <img src="https://img.shields.io/badge/Browser-Based-Utilities-000000?style=flat-square" alt="Browser based">
+  <img src="https://img.shields.io/badge/Privacy-Friendly-Workflows-000000?style=flat-square" alt="Privacy friendly">
+  <img src="https://img.shields.io/badge/Multilingual-Workflows-000000?style=flat-square" alt="Multilingual">
+  <img src="https://img.shields.io/badge/Built%20in-Germany-000000?style=flat-square" alt="Built in Germany">
+</p>
 
 </div>
 
 ---
 
-# Platform Categories
+## What Klartext Ventures builds
 
-## 🎮 Gaming Tools
+**Klartext Tools** is a growing platform of focused browser-based utilities, calculators, guides, and workflow helpers.
 
-Utilities designed for gamers optimizing mouse sensitivity and performance.
+Every page is built around the same principle:
 
-Examples include:
+- one clear job
+- fast load times
+- direct results
+- minimal friction
 
-- DPI calculators  
-- eDPI converters  
-- sensitivity comparison tools  
-- input testing utilities  
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Example search queries**
+### Fast by default
+Focused pages, lightweight interactions, and quick answers without unnecessary steps.
 
-```
-dpi calculator
-edpi calculator
-mouse sensitivity converter
-gaming sensitivity calculator
-```
+</td>
+<td valign="top" width="50%">
 
----
+### Privacy-friendly
+Many tools run directly in the browser, with no account required.
 
-## 💻 Developer Tools
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-Lightweight browser utilities for developers and technical workflows.
+### Clear and useful
+Clean layouts, understandable inputs, and output that helps people make the next decision faster.
 
-Examples include:
+</td>
+<td valign="top" width="50%">
 
-- JSON formatter and validator  
-- keyboard input testers  
-- screen resolution detection tools  
-- text formatting utilities  
+### Built to explore
+Beyond tools, the platform connects guides, comparisons, and adjacent workflows for deeper discovery.
 
-**Example search queries**
+</td>
+</tr>
+</table>
 
-```
-json formatter
-keyboard tester
-screen resolution checker
-developer utilities online
-```
+## Platform coverage
 
----
+Klartext Tools spans a wide range of practical categories, including:
 
-## 🏗 Construction Calculators
+- Roblox tools
+- Discord tools
+- developer tools
+- gaming tools
+- productivity
+- finance
+- web utilities & SEO
+- tests & diagnostics
+- math & science
+- construction tools
+- lifestyle & health
 
-Practical calculators used for planning and estimating materials.
+## Popular starting points
 
-Examples include:
+| Tool | Use case |
+|---|---|
+| [Compound Interest Calculator](https://klartext-tools.com/en/finance/compound-interest-calculator/) | Model long-term growth, recurring contributions, and inflation |
+| [Code Snippet Formatter](https://klartext-tools.com/en/developer-tools/code-snippet-formatter/) | Clean pasted code for docs, tickets, markdown, and sharing |
+| [FPS Calculator & Hardware Performance Estimator](https://klartext-tools.com/en/gaming-tools/fps-hardware-performance-estimator/) | Estimate FPS, lows, and likely bottleneck direction |
+| [Sitemap Validator](https://klartext-tools.com/en/web-utilities/sitemap-validator/) | Check sitemap XML, duplicates, and crawl readiness |
+| [Discord Timestamp Generator](https://klartext-tools.com/en/discord-tools/discord-timestamp-generator/) | Create Discord-ready timestamps for events and reminders |
+| [Roblox DevEx Calculator](https://klartext-tools.com/en/roblox-tools/devex-calculator/) | Estimate earned Robux and USD payout value |
 
-- tile calculators  
-- paint consumption estimators  
-- wallpaper estimators  
-- area and volume calculators  
+## Why it exists
 
-**Example search queries**
+Klartext Tools is an independent, solo-built project from Stuttgart focused on making browser tools that feel genuinely useful.
 
-```
-tile calculator
-paint calculator
-wallpaper calculator
-material estimator
-```
+The goal is not to publish the most pages. The goal is to publish pages that:
 
----
+- save time
+- answer real questions
+- reduce friction
+- stay understandable
 
-# Platform Principles
+The platform remains freely accessible and is supported through unobtrusive ads and occasional affiliate recommendations.
 
-## ⚡ Speed First
-
-Performance is the foundation of the platform.
-
-Optimizations include:
-
-- lightweight JavaScript bundles  
-- static rendering where possible  
-- CDN delivery  
-- minimal dependencies  
-
-Tools load quickly and feel **instant on both mobile and desktop**.
-
----
-
-## 🔒 Privacy First
-
-The platform is designed with **privacy as a default**.
-
-Whenever possible:
-
-- calculations run locally in the browser  
-- no accounts are required  
-- no unnecessary tracking  
-- minimal data collection  
-
-Users can solve problems **without giving up personal data**.
-
----
-
-## 🧭 Clear UX
-
-Every tool follows a structured layout:
-
-```
-Tool Title
-Short Explanation
-Input Fields
-Live Results
-Usage Context
-FAQ
-Related Tools
-```
-
-This structure improves:
-
-- usability  
-- discoverability  
-- SEO performance  
-
----
-
-# Architecture Overview
-
-```
-User Browser
-      │
-      │  Input
-      ▼
-Utility Tool Page
-      │
-      │  Client-Side Logic
-      ▼
-Browser Calculation Engine
-      │
-      ▼
-Instant Result
-```
-
-Design philosophy:
-
-- browser-native tools  
-- minimal server dependencies  
-- scalable tool architecture  
-
----
-
-# SEO Strategy
-
-Klartext Ventures focuses on **high-intent search problems**.
-
-Examples include:
-
-```
-online json formatter
-dpi calculator
-tile calculator
-screen resolution checker
-paint estimator
-```
-
-Key SEO principles:
-
-- search-intent driven tools  
-- fast page performance  
-- structured page layouts  
-- internal linking between tools  
-- evergreen utility content  
-
----
-
-# Platform Roadmap
-
-Future expansion includes:
-
-- more gaming utilities  
-- advanced developer tools  
-- financial calculators  
-- productivity tools  
-- improved tool discovery  
-
-The goal is to build a **large ecosystem of focused web utilities**.
-
----
-
-# Visitor Counter
+## Featured on
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Klartext-Ventures&style=for-the-badge">
+<img src="https://img.shields.io/badge/Product%20Hunt-Featured-000000?style=flat-square" alt="Product Hunt">
+<img src="https://img.shields.io/badge/Built%20by%20Indies-Listed-000000?style=flat-square" alt="Built by Indies">
+<img src="https://img.shields.io/badge/Fazier-Listed-000000?style=flat-square" alt="Fazier">
+<img src="https://img.shields.io/badge/Hacker%20News-Posted-000000?style=flat-square" alt="Hacker News">
+<img src="https://img.shields.io/badge/Peerlist-Listed-000000?style=flat-square" alt="Peerlist">
+<img src="https://img.shields.io/badge/AlternativeTo-Listed-000000?style=flat-square" alt="AlternativeTo">
 
 </div>
 
----
+## Links
 
-# Live Platform
-
-Visit the platform:
-
-### https://klartext-tools.com
-
----
-
-# Contact
-
-Klartext Ventures  
-support@klartextventures.com
+- [Website](https://klartext-tools.com)
+- [About](https://klartext-tools.com/en/about/)
+- [Contact](https://klartext-tools.com/en/contact/)
 
 ---
 
 <div align="center">
 
-### Klartext Ventures
+### KLΛRTEXT
 
-Fast • Private • Useful
-
-Modern browser tools for developers, gamers, planners, and everyday users.
+Practical browser-based tools and calculators for developers, gamers, builders, planners, and everyday workflows.
 
 </div>
